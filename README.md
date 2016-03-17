@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # testjarsomaticWed Mar 16 15:25:09 CET 2016
 Wed Mar 16 15:35:22 CET 2016
 Wed Mar 16 16:26:34 CET 2016
@@ -25,3 +26,8 @@ Thu Mar 17 16:27:12 CET 2016
 Thu Mar 17 17:05:22 CET 2016
 Thu Mar 17 17:06:47 CET 2016
 Thu Mar 17 17:07:59 CET 2016
+=======
+# testjarsomatic
+update
+>>>>>>> 604f00118ee95b94c5ace9222a0199013a8bae90
+Thu Mar 17 17:17:49 CET 2016
