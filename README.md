@@ -28,6 +28,11 @@ Thu Mar 17 17:06:47 CET 2016
 Thu Mar 17 17:07:59 CET 2016
 =======
 # testjarsomatic
+<<<<<<< HEAD
 update
 >>>>>>> 604f00118ee95b94c5ace9222a0199013a8bae90
 Thu Mar 17 17:17:49 CET 2016
+=======
+update again
+>>>>>>> 2179721ace68428980a24869ac2e208ff31feca5
+Tue Mar 29 14:51:48 CEST 2016
