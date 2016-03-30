@@ -34,5 +34,9 @@ update
 Thu Mar 17 17:17:49 CET 2016
 =======
 update again
+<<<<<<< HEAD
 >>>>>>> 2179721ace68428980a24869ac2e208ff31feca5
 Tue Mar 29 14:51:48 CEST 2016
+=======
+and again
+>>>>>>> 56dbf1ffcc80712b9492f77746aef41b0d97345a
